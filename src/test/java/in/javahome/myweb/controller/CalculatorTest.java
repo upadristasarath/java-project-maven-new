@@ -6,7 +6,7 @@ import junit.framework.TestCase;
 public class CalculatorTest extends TestCase {
 	Calculator cal = new Calculator();
 	public void testAdd(){
-		// sysout123
+		// sysout1236544
 		Assert.assertEquals(cal.add(10, 20), 30);
 	}
 	public void testMultiply(){
